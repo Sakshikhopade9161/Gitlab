@@ -4,3 +4,4 @@ git commit -m "Add command file"
 git push
 git pull
 git config --global user.name "Sakshikhopade9161"
+git config --global user.email "Sakshikhopade9161@gmail.com"
