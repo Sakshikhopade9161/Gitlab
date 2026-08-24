@@ -1,5 +1,5 @@
 git status
-git add .
+git add 
 git commit -m "Add command file"
 git push
 git pull
