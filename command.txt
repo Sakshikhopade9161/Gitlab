@@ -3,3 +3,4 @@ git add .
 git commit -m "Add command file"
 git push
 git pull
+git config --global user.name "Sakshikhopade9161"
